@@ -3,3 +3,22 @@
 @tailwind utilities;
 
 @import "flowbite";
+
+/* ================================
+   Fuentes personalizadas
+   ================================ */
+.font-geist {
+  font-family: "Geist Variable", system-ui, sans-serif;
+}
+
+.font-enriqueta {
+  font-family: "Enriqueta", serif;
+}
+
+.font-libre {
+  font-family: "Libre Baskerville", serif;
+}
+
+.font-geist-mono {
+  font-family: "Geist Mono", monospace;
+}
